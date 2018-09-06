@@ -5,7 +5,7 @@
     "zmq": "= 2.0.0"
   },
   "dependencies": {
-    "nomnom": "> 1.x.x",
+    "nomnom-alive": "> 1.x.x",
     "uglify-js": "> 1.x.x"
   },
   "engine": {
